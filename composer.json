@@ -1,4 +1,9 @@
 {
     "name": "daftlabs/botr",
-    "description": "Bits on the Run System API client library"
+    "description": "Bits on the Run System API client library",
+    "autoload": {
+        "files": [
+            './api.php'
+        ]
+    }
 }
