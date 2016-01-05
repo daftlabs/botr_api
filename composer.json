@@ -3,7 +3,7 @@
     "description": "Bits on the Run System API client library",
     "autoload": {
         "files": [
-            './api.php'
+            "./api.php"
         ]
     }
 }
